@@ -1,0 +1,15 @@
+C:\Users\Dawid\source\repos\KAMP\KAMP\bin\Debug\KAMP.exe.config
+C:\Users\Dawid\source\repos\KAMP\KAMP\bin\Debug\KAMP.exe
+C:\Users\Dawid\source\repos\KAMP\KAMP\bin\Debug\KAMP.pdb
+C:\Users\Dawid\source\repos\KAMP\KAMP\obj\Debug\KAMP.csprojAssemblyReference.cache
+C:\Users\Dawid\source\repos\KAMP\KAMP\obj\Debug\MainWindow.g.cs
+C:\Users\Dawid\source\repos\KAMP\KAMP\obj\Debug\App.g.cs
+C:\Users\Dawid\source\repos\KAMP\KAMP\obj\Debug\KAMP_MarkupCompile.cache
+C:\Users\Dawid\source\repos\KAMP\KAMP\obj\Debug\KAMP_MarkupCompile.lref
+C:\Users\Dawid\source\repos\KAMP\KAMP\obj\Debug\MainWindow.baml
+C:\Users\Dawid\source\repos\KAMP\KAMP\obj\Debug\KAMP.g.resources
+C:\Users\Dawid\source\repos\KAMP\KAMP\obj\Debug\KAMP.Properties.Resources.resources
+C:\Users\Dawid\source\repos\KAMP\KAMP\obj\Debug\KAMP.csproj.GenerateResource.cache
+C:\Users\Dawid\source\repos\KAMP\KAMP\obj\Debug\KAMP.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\KAMP\KAMP\obj\Debug\KAMP.exe
+C:\Users\Dawid\source\repos\KAMP\KAMP\obj\Debug\KAMP.pdb
